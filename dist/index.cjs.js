@@ -2648,7 +2648,7 @@ var UserBlock = function (_a) {
 
 var Icons$1 = IconModule;
 Icons$1.MoonIcon; Icons$1.SunIcon; Icons$1.LanguageIcon;
-var Container$4 = styled__default['default'].div(templateObject_1$F || (templateObject_1$F = __makeTemplateObject(["\n  flex: none;\n  padding: 8px 4px;\n  // background-color: ", ";\n  // border-top: solid 2px rgba(133, 133, 133, 0.1);\n\n  // Custom style \n  background-color: rgba(2,10,29, 0.25) !important;\n\n  // Custom positioning\n  position: fixed;\n  bottom: 0px;\n  left: 0px;\n  z-index: 10000;\n  border-top: none;\n"], ["\n  flex: none;\n  padding: 8px 4px;\n  // background-color: ", ";\n  // border-top: solid 2px rgba(133, 133, 133, 0.1);\n\n  // Custom style \n  background-color: rgba(2,10,29, 0.25) !important;\n\n  // Custom positioning\n  position: fixed;\n  bottom: 0px;\n  left: 0px;\n  z-index: 10000;\n  border-top: none;\n"])), function (_a) {
+var Container$4 = styled__default['default'].div(templateObject_1$F || (templateObject_1$F = __makeTemplateObject(["\n  flex: none;\n  padding: 8px 4px;\n  // background-color: ", ";\n  // border-top: solid 2px rgba(133, 133, 133, 0.1);\n\n  // Custom style \n  background-color: rgba(2,10,29, 0.25) !important;\n\n  // Custom positioning\n  position: fixed;\n  bottom: 0px;\n  right: 0px;\n  z-index: 10000;\n  border-top: none;\n"], ["\n  flex: none;\n  padding: 8px 4px;\n  // background-color: ", ";\n  // border-top: solid 2px rgba(133, 133, 133, 0.1);\n\n  // Custom style \n  background-color: rgba(2,10,29, 0.25) !important;\n\n  // Custom positioning\n  position: fixed;\n  bottom: 0px;\n  right: 0px;\n  z-index: 10000;\n  border-top: none;\n"])), function (_a) {
     var theme = _a.theme;
     return theme.nav.background;
 });

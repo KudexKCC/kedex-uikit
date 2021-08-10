@@ -30,7 +30,7 @@ const Container = styled.div`
   // Custom positioning
   position: fixed;
   bottom: 0px;
-  left: 0px;
+  right: 0px;
   z-index: 10000;
   border-top: none;
 `;
